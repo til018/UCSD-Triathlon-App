@@ -48,6 +48,8 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="project.globalties.ucsdtriathlonbikeapp.LoginActivity" />
         </activity>
+        <activity android:name=".IndividualWorkout" />
+        <activity android:name=".MatchesActivity"></activity>
     </application>
 
 </manifest>
