@@ -68,18 +68,18 @@ public class Home extends Fragment {
     }
 
     @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
+    //public View onCreateView(LayoutInflater inflater, ViewGroup container,
+       //                      Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        View view = inflater.inflate(R.layout.fragment_home, container, false);
+        //View view = inflater.inflate(R.layout.fragment_home, container, false);
 
         //Find the +1 button
-        mPlusOneButton = (PlusOneButton) view.findViewById(R.id.plus_one_button);
+        //mPlusOneButton = (PlusOneButton) view.findViewById(R.id.plus_one_button);
 
-        return view;
-    }
+        //return view;
+    //}
 
-    @Override
+    //@Override
     public void onResume() {
         super.onResume();
 

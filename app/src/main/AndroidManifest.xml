@@ -40,16 +40,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".BluetoothActivity"
-            android:label="@string/title_activity_bluetooth"
-            android:parentActivityName=".LoginActivity">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="project.globalties.ucsdtriathlonbikeapp.LoginActivity" />
-        </activity>
         <activity android:name=".IndividualWorkout" />
-        <activity android:name=".MatchesActivity"></activity>
+        <activity android:name=".MatchesActivity" />
+        <activity android:name=".BluetoothActivity"></activity>
     </application>
 
 </manifest>
