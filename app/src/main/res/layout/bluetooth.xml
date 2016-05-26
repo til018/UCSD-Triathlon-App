@@ -57,12 +57,14 @@
         android:textColor="#ffffff"
         android:background="#351f64" />
 
-</RelativeLayout><Button
+        <Button
         android:layout_width="match_parent"
         android:layout_marginTop="30dp"
         android:layout_height="89dp"
         android:text="Connect to Bluetooth"
         android:id="@+id/button3"
         android:textColor="#ffffff"
-        android:background="#000000" />
-</LinearLayout>
+        android:background="#351f64"
+            android:allowUndo="false" />
+</RelativeLayout>
+

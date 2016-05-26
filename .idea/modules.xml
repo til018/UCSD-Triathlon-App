@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GlobalTiesTriathlonBikeApp.iml" filepath="$PROJECT_DIR$/GlobalTiesTriathlonBikeApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UCSD-Triathlon-App.iml" filepath="$PROJECT_DIR$/UCSD-Triathlon-App.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
